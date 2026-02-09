@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Generated outputs
+Dev-Try-MVP/text2scienceflow/output/
+Dev-Try-MVP/text2scienceflow/ppt/outputs/
+
+# macOS
+.DS_Store
